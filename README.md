@@ -2,6 +2,8 @@
 
 This project builds and deploys a machine learning model to predict customer credit scores based on behavioral and profile data. It includes data preprocessing, model training, evaluation, and real-world application to new customer data.
 
+**Key results:** Developed an AI model capable of predicting the credit score of financial clients with 82% accuracy, based on customer characteristics.
+
 🚀 Features
 
 Loads and cleans customer datasets
